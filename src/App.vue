@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <div>hello world</div>
 </template>
 
 <style>
