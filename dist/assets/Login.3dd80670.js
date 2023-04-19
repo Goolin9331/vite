@@ -1,0 +1,1 @@
+import{d as t,c as n,a,w as c,B as s,o as l,b as r}from"./index.80d873b2.js";const _=r("\u767B\u5F55"),m=t({setup(u){function e(){console.log("hello")}return(i,p)=>{const o=s;return l(),n("div",null,[a(o,{type:"primary",onClick:e},{default:c(()=>[_]),_:1})])}}});export{m as default};

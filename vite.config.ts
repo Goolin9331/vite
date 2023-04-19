@@ -7,7 +7,7 @@ import * as path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue(), Components({ resolvers: [AntDesignVueResolver()] })],
-  base: "/vite/",
+  base: "/vite/dist/",
   server: {
     host: "0.0.0.0",
     open: true,
