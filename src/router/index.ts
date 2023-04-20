@@ -37,7 +37,7 @@ const routeItems: Array<RouteRecordRaw> = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory("/vite/dist/"),
   routes: routeItems,
 });
 /**
